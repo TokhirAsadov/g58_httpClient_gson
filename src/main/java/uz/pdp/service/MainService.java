@@ -15,7 +15,7 @@ public class MainService {
                     GroupService.run();
                 }
                 case 2 -> {
-                    //todo------  StudentService.run()
+                    StudentService.run();
                 }
                 case 3 -> {
                     System.out.println("Tashrif uchun rahmat..");
